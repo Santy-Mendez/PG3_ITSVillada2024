@@ -21,4 +21,4 @@ lado3 = float(input("Ingrese la longitud del tercer lado: "))
 
 triangulo = Triangulo(lado1, lado2, lado3)
 triangulo.imprimir_lado_mayor()
-triangulo.es_equilatero()
+triangulo.es_equilatero() 
