@@ -13,4 +13,3 @@ if __name__ == "__main__":
     nombres_hijos = ["Juan", "María", "Pedro"]
     familia1 = Familia("Carlos", "Ana", nombres_hijos)
     print(familia1)
-
